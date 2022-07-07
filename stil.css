@@ -30,6 +30,7 @@ h1{
 }
 nav.menu {
   grid-area: menu;
+  margin-block-start: 0.5em;
   }
 .menu-item {
   text-decoration: none;
